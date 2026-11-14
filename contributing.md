@@ -193,6 +193,6 @@ Use the button in the Quick Start section.
 
 ---
 
-*Among Us · Updated 2026-10-27 · Shared under the MIT License*
+*Among Us · Updated 2026-11-14 · Shared under the MIT License*
 
-<!-- last reviewed 2026-11-13 -->
+<!-- last reviewed 2026-11-14 -->
